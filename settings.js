@@ -21,8 +21,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['2349131287266'] //ur owner number
-global.ownernomer = "9129239396" //ur owner number2
+global.owner = ['2348105194636'] //ur owner number
+global.ownernomer = "2348105194636" //ur owner number2
 global.ownername = "ᗩTᙓᗩᙢ ᗷᗝt" //ur owner name
 global.ytname = "YT: ᗩTᙓᗩᙢ" //ur yt chanel name
 global.socialm = "GitHub: ᗩTᙓᗩᙢ" //ur github or insta name
@@ -30,18 +30,18 @@ global.location = "Nigeria" //ur location
 
 //new
 global.botname = "ᗩTᙓᗩᙢ ᗷᗝt"
-global.ownernumber = '2349129239396'
+global.ownernumber = '2348105194636'
 global.ownername = 'ᗩTᙓᗩᙢ ᗷᗝt'
 global.ownerNumber = ["2348033539732@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/JBk9pbdARWMKvUbL3mziGO"
+global.wagc = "https://chat.whatsapp.com/FWrQ6PcBIe07Ou1OPjkBDx"
 global.themeemoji = '🪀'
 global.wm = "ᗩTᙓᗩᙢ Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "คtєค៣\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.creator = "2348105194636@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
